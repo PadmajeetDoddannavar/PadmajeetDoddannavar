@@ -1,5 +1,5 @@
-Hi, PADMAJEET here,
-I'm a passionate 🌟 Web Developer<br> and Java Backend Developer with a deep<br> interest in building scalable 🌱,<br> high-performance ⚡ web applications.<br> I specialize in designing 🛠️ and implementing<br> efficient backend solutions using Java 💻,<br> as well as creating responsive 📱 and user-friendly 👨‍💻<br> front-end interfaces.
+Hi 👋, PADMAJEET DODDANNAVAR 👨‍💻 here,
+I'm a passionate 🌟 Web Developer<br> and Java Backend Developer with a deep interest in building scalable 🌱,<br> high-performance ⚡ web applications. I specialize in designing 🛠️ and<br> implementing efficient backend solutions using Java 💻, as well as<br> creating responsive 📱 and user-friendly 👨‍💻 front-end interfaces.
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
