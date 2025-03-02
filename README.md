@@ -13,4 +13,4 @@ I'm a passionate 🌟 Web Developer<br> and Java Backend Developer with a deep i
 [![](https://visitcount.itsvg.in/api?id=PadmajeetDoddannavar&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-![](https://komarev.com/ghpvc/?username=NikhilKalloli&color=brightgreen)
+![](https://komarev.com/ghpvc/?username=PadmajeetDoddannavar&color=brightgreen)
